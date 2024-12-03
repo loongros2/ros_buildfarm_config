@@ -41,7 +41,7 @@ jenkins_job_schedule: 10 23 * * *
 jenkins_job_timeout: 30
 jenkins_job_weight: 4
 repos_files:
-- !relative_url ci-infra.repos
+- https://raw.githubusercontent.com/ros-infrastructure/ci/refs/heads/main/ros-infrastructure.repos
 repositories:
   keys:
   - |
