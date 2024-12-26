@@ -3,12 +3,15 @@
 ---
 distributions:
   jazzy:
+    notification_emails:
+    - 873216071@qq.com
     release_builds:
       default: jazzy/release-build.yaml
     source_builds:
       default: jazzy/source-build.yaml
 jenkins_url: http://localhost:8080
 notification_emails:
+- 873216071@qq.com
 prerequisites:
   debian_repositories:
   - http://127.0.0.1/building
