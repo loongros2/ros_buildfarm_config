@@ -14,7 +14,7 @@ notification_emails:
 - 873216071@qq.com
 prerequisites:
   debian_repositories:
-  - http://127.0.0.1/building
+  - http://10.9.120.102/building
   debian_repository_keys:
   - |
     -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -33,8 +33,8 @@ prerequisites:
 rosdistro_index_url: https://raw.githubusercontent.com/loongros2/rosdistro/master/index-v4.yaml
 status_page_repositories:
   default:
-  - http://127.0.0.1/building
-  - http://127.0.0.1/testing
-  - http://127.0.0.1/main
+  - http://10.9.120.102/building
+  - http://10.9.120.102/testing
+  - http://10.9.120.102/main
 type: buildfarm
 version: 1

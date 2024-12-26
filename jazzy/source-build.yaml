@@ -32,7 +32,7 @@ repositories:
     =eAX4
     -----END PGP PUBLIC KEY BLOCK-----
   urls:
-  - http://127.0.0.1/testing
+  - http://10.9.120.102/testing
 repository_blacklist:
 - ros_workspace
 targets:
