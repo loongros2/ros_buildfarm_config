@@ -9,7 +9,7 @@ distributions:
       default: jazzy/release-build.yaml
     source_builds:
       default: jazzy/source-build.yaml
-jenkins_url: http://localhost:8080
+jenkins_url: http://100.89.155.77:8080
 notification_emails:
 - 873216071@qq.com
 prerequisites:
