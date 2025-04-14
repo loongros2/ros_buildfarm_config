@@ -37,8 +37,8 @@ repositories:
     =eAX4
     -----END PGP PUBLIC KEY BLOCK-----
   urls:
-  - http://10.9.120.102/building
-target_repository: http://10.9.120.102/building
+  - http://100.89.155.77/building
+target_repository: http://100.89.155.77/building
 targets:
   debian:
     trixie:
